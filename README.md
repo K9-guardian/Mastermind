@@ -1,1 +1,2 @@
-"# Mastermind Plays the game mastermind with four letter words" 
+# Mastermind
+Plays the game mastermind with four letter words
